@@ -1,0 +1,6 @@
+changes: 
+added profile to user-index.php and company-index.php.
+replaced adress with email.
+the company signup , added email and field.
+user sign up , added job.
+idk something is wrong with the session stuff idk how to use (:
